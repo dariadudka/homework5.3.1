@@ -1,0 +1,16 @@
+.box {
+    display: flex;
+    align-self: center;
+  }
+ #left{
+     float: left;
+ }  
+ #right{
+float: right;
+margin: 10px 10px 10px 10px;
+ }     
+ p{
+     font-size: 20px;
+     margin: 0 0 0 0;
+     text-align: justify;
+ }
